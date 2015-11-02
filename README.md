@@ -28,7 +28,20 @@
 ( )`git commit index.html`
 
 
-?: git status returns: (git status output showing index is staged). How would you commit this with the message "adding new authors to index"
+?: git status returns:
+
+```bash
+On branch master
+
+Initial commit
+
+Changes to be committed:
+  (use "git rm --cached <file>..." to unstage)
+
+	new file:   index.html
+```
+
+How would you commit this with the message "adding new authors to index"
 
 (X)`git commit -m "adding new authors to index"`
 ( )`git commit "adding new authors to index"`
