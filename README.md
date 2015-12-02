@@ -49,3 +49,5 @@ How would you commit this with the message "adding new authors to index"
 
 
 ???
+
+<a href='https://learn.co/lessons/git-basics-quiz' data-visibility='hidden'>View this lesson on Learn.co</a>
