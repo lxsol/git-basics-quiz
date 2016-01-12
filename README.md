@@ -15,7 +15,7 @@
 (X)True
 ( )False
 
-?: Which of the following commands will stage your entire directory and every directory inside your current directory?
+?: Which of the following commands will stage your entire directory and every non-empty directory inside your current directory?
 
 ( )`git status all`
 (X)`git add .`
