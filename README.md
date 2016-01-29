@@ -50,4 +50,4 @@ How would you commit this with the message "adding new authors to index"
 
 ???
 
-<a href='https://learn.co/lessons/git-basics-quiz' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/git-basics-quiz' title='Objectives'>Objectives</a> on Learn.co and start learning to code for free.</p>
