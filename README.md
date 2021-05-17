@@ -1,4 +1,4 @@
-## Objectives
+## High Level Objectives
 
 1. Test your understanding of basic git repo commands
 
